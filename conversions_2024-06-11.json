@@ -1,0 +1,65 @@
+[
+  {
+    "base": "BGN",
+    "target": "EUR",
+    "amount": 10,
+    "convertedAmount": "5.13",
+    "date": "2024-06-11"
+  },
+  {
+    "base": "BGN",
+    "target": "EUR",
+    "amount": 10,
+    "convertedAmount": "5.13",
+    "date": "2024-06-11"
+  },
+  {
+    "base": "BGN",
+    "target": "EUR",
+    "amount": 10,
+    "convertedAmount": "5.13",
+    "date": "2024-06-11"
+  },
+  {
+    "base": "EUR",
+    "target": "BGN",
+    "amount": 10,
+    "convertedAmount": "19.51",
+    "date": "2024-06-11"
+  },
+  {
+    "base": "EUR",
+    "target": "BGN",
+    "amount": 10,
+    "convertedAmount": "19.52",
+    "date": "2024-06-11"
+  },
+  {
+    "base": "BGN",
+    "target": "EUR",
+    "amount": 10,
+    "convertedAmount": "5.12",
+    "date": "2024-06-11"
+  },
+  {
+    "base": "EUR",
+    "target": "BGN",
+    "amount": 10,
+    "convertedAmount": "19.52",
+    "date": "2024-06-11"
+  },
+  {
+    "base": "EUR",
+    "target": "BGN",
+    "amount": 10,
+    "convertedAmount": "19.52",
+    "date": "2024-06-11"
+  },
+  {
+    "base": "BGN",
+    "target": "EUR",
+    "amount": 10,
+    "convertedAmount": "5.12",
+    "date": "2024-06-11"
+  }
+]
