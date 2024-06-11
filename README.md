@@ -14,7 +14,7 @@ Exchange Rate  is a Node.js application that provides utilities for fetching and
 
 Before you begin, ensure you have Node.js installed on your system. You can download Node.js from [https://nodejs.org/](https://nodejs.org/).
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: git clone https://github.com/DayanaVakareeva/exchange.git
 
 2. Navigate to the application directory:
   cd exchange
